@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 0A7D-3360
+
+ Directory of C:\Users\Aviral\Desktop\GitPractice\MyFolder
+
+05-07-2020  12:33    <DIR>          .
+05-07-2020  12:33    <DIR>          ..
+05-07-2020  02:04                 8 test1.txt
+05-07-2020  12:33                 0 test2.txt
+05-07-2020  01:49                 0 text.html
+               3 File(s)              8 bytes
+               2 Dir(s)  107,686,526,976 bytes free
